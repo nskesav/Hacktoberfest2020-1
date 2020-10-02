@@ -1,0 +1,5 @@
+This Program is the Round Robin Scheduling Program Implemented in C
+Jusst run 
+make -f make.mk 
+and the program will compile
+and then do ./a.out to execute.
